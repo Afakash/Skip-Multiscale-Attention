@@ -105,3 +105,5 @@ If you want to use these modules or models to train your own dataset, you need t
 
 ## Reference
 1. [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://arxiv.org/abs/2203.03605)
+2. [Gong Cheng, Junwei Han, Peicheng Zhou, Lei Guo. Multi-class geospatial object detection and geographic image classification based on collection of part detectors. ISPRS Journal of Photogrammetry and Remote Sensing, 98: 119-132, 2014.] (http://dx.doi.org/10.1016/j.isprsjprs.2014.10.002).
+3. [Object Detection in Optical Remote Sensing Images: A Survey and A New Benchmark](https://arxiv.org/abs/1909.00133)
