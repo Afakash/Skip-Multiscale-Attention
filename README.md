@@ -1,8 +1,8 @@
 # Skip-Encoder and Skip-Decoder for Optical Remote Sensing Object Detection
 * The origin name is ‘Skip-Multiscale-Attention for Detection Transformer in Remote Sensing Imagery’.
 This repository is dedicated to open-sourcing the code from our paper.
-The paper is currently under review, and the specific code has been made public now.
-
+The paper is currently published: https://doi.org/10.3390/rs16162884, and the specific code has been made public now.
+![train log](log1.png)
 ## Outline
 1. Environment setup
 2. Get Started
