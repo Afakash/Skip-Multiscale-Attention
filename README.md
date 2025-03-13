@@ -20,9 +20,9 @@ Here are some introductions about the code provided on this page:
 1. NWPU VHR-10 folder: [download NWPU VHR-10.v2 dataset](https://www.kaggle.com/datasets/feifanyang6755/nwpu-vhr-400v2/data)
     - config: This folder includes the hyperparameter settings used in our paper when training the model: “DINO_4scale.py”.
 
-       - If you want to further use other stronger skeletons provided by the original DINO, you can also refer to some of the settings in it.
+       - If you want to further use other stronger skeletons provided by the original DINO, you can also refer to some of its settings.
                
-       - If you need to use these codes to train your dataset, be sure to modify the num_classes in the hyperparameters to the number of categories in your dataset + 1.
+       - If you need to use these codes to train your dataset, modify the num_classes in the hyperparameters to the number of categories in your dataset + 1.
      
     - datasets: This folder also only contains a “coco.py”, which mainly involves some settings about data augmentation and dataset reading.
        -  In the NWPU VHR-10 dataset, our dataset uses the label format of the coco dataset. The specific organization method is as follows:
